@@ -10,5 +10,5 @@ If you have any questions, please email me at leen.madani@mail.utoronto.ca
 
 *********************
 
-The dataset you will use for this project is downloaded from the stats community project of the University of
+The dataset used for this project is downloaded from the stats community project of the University of
 Sheffield (www.sheffield.ac.uk)
